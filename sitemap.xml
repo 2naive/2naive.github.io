@@ -6,7 +6,7 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
   <loc>http://nedzelsky.pro</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
@@ -16,7 +16,7 @@
 </url>
 <url>
   <loc>http://nedzelsky.pro/pub/studio_self_security.html</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>1.00</priority>
 </url>
 
